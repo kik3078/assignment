@@ -2,5 +2,5 @@
 
 ## Pure Aloha
 <div>
-  <img src="pureAloha.png">
+  <img src="./images/pureAloha.png">
 </div>
